@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   let email=import.meta.env.EMAIL;
-      console.log(email);
+      console.log(ema);
   let pass=import.meta.env.VITE_PASS;
       console.log(pass);
   return (
